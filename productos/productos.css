@@ -1,0 +1,68 @@
+header,
+footer,
+main {
+  text-align: center;
+  font-family: "Verdana";
+}
+
+html {
+  height: 150%;
+  margin: 0 50px;
+}
+
+h1 {
+  margin: 0 0 50px;
+}
+
+h2 {
+  height: 150%;
+  font-size: 16px;
+  margin: 5px 50px 10px;
+}
+
+p,
+li {
+  font-size: 14px;
+}
+
+li {
+  margin: 0 0 10px;
+}
+
+header {
+  background-repeat: no-repeat;
+  background-size: 60%;
+  background-color: white;
+  color: black;
+  margin: 0 0 50px;
+}
+
+.titulo {
+  width: 75%;
+  height: 280px;
+}
+
+.item {
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
+  margin: 3px 5px 30px;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+h2 {
+  background-color: orange;
+}
+
+footer {
+  left: 0;
+  bottom: 0;
+  padding: 0.5em 0;
+  width: 100%;
+  background: greenyellow;
+  background-image: url("https://fondosmil.com/fondo/21453.jpg");
+}
